@@ -1,2 +1,2 @@
 # Hockey-Performance-Analysis
-gg
+![Dashboard Preview](Book1.png)
